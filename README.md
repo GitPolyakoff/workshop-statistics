@@ -20,7 +20,7 @@
 ### Инструкция по запуску
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-никнейм>/WorkshopStatistics.git
+   git clone https://github.com/GitPolyakoff/WorkshopStatistics.git
 2. Настройте конфигурацию:
 Создайте файл `config.json` в корне проекта: `..\WorkshopStatistics\WorkshopStatistics\bin\Debug\`.
 3. Скопируйте в него содержимое из `config.json.example` и заполните данными:
@@ -42,7 +42,7 @@
    ```bash
 https://steamcommunity.com/sharedfiles/filedetails/?id=1234567891
 ```
-Здесь `3230326034` — это ID работы.
+Здесь `1234567891` — это ID работы.
 
 ![Получение ID работы](images/screenshot2.png)
 
