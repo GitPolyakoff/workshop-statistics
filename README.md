@@ -20,7 +20,7 @@
 ### Инструкция по запуску
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/GitPolyakoff/WorkshopStatistics.git
+   git clone https://github.com/GitPolyakoff/workshop-statistics.git
 2. Настройте конфигурацию:
 Создайте файл `config.json` в корне проекта: `..\WorkshopStatistics\WorkshopStatistics\bin\Debug\`.
 3. Скопируйте в него содержимое из `config.json.example` и заполните данными:
